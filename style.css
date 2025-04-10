@@ -128,7 +128,7 @@ body {
     user-select: none;
 }
 
-@media (max_width = 768px) {
+@media (max-width = 768px) {
     .list {
         position: absolute;
         top: 80px;
